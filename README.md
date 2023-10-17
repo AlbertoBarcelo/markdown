@@ -21,25 +21,43 @@ Fue ideado para equipos que necesitan trabajar de manera colaborativa y adaptati
 
 
 ### Eventos
-1.  **Sprint Planning:** Reunión al inicio de cada Sprint en la que se planifica el trabajo a realizar durante el Sprint.
-2.  **Daily Scrum:** Reunión diaria en la que el equipo revisa el progreso y ajusta sus planes para alcanzar los objetivos del Sprint.
-3.  **Sprint Review:** Reunión al final de cada Sprint en la que el equipo muestra lo que ha logrado y recibe retroalimentación del Product Owner y partes interesadas.
-4.  **Sprint Retrospective:** Reunión al final de cada Sprint en la que el equipo reflexiona sobre su desempeño y discute cómo mejorar en el próximo Sprint.
+Scrum, una metodología ágil, se basa en varios eventos clave para organizar y gestionar el desarrollo del producto. Estos eventos son:
+
+1. **Sprint Planning (Planificación del Sprint)**: Reunión al inicio de cada Sprint donde el equipo determina qué elementos del Backlog del Producto se trabajarán durante el próximo Sprint y cómo se llevará a cabo el trabajo.
+
+2. **Daily Scrum (Reunión Diaria)**:Breve reunión diaria donde el equipo se sincroniza sobre su progreso, comparte los objetivos del día y discute cualquier impedimento que pueda afectar su avance hacia el objetivo del Sprint.
+
+3. **Sprint Review (Revisión del Sprint)**: Reunión al final de cada Sprint donde el equipo presenta el incremento del producto desarrollado durante el Sprint y recibe retroalimentación de los stakeholders. Se discuten las metas alcanzadas y se planifica el siguiente Sprint.
+
+4. **Sprint Retrospective (Retrospectiva del Sprint)**: Reunión al final de cada Sprint donde el equipo revisa su rendimiento, identifica áreas de mejora y define acciones para abordar problemas y hacer ajustes para futuros Sprints.
+
+Estos eventos en Scrum son esenciales para mantener la transparencia, la adaptabilidad y la colaboración dentro del equipo, permitiendo entregas incrementales de valor y fomentando la mejora continua del proceso y del producto.
    
 --- 
 ### Artefactos
-   - **Product Backlog:** Es una lista priorizada de funcionalidades, mejoras y correcciones que constituyen los requisitos del producto.
-   - **Sprint Backlog:** Es un subconjunto del Product Backlog que contiene las tareas que el equipo se compromete a completar durante el Sprint.
-   - **Incremento:** Es la suma de todos los elementos completados durante el Sprint y el valor de los incrementos anteriores.
----
-### Eventos
-1.  ***Sprint Planning:*** Reunión al inicio de cada Sprint en la que se planifica el trabajo a realizar durante el Sprint.
-2. ***Daily Scrum:*** Reunión diaria en la que el equipo revisa el progreso y ajusta sus planes para alcanzar los objetivos del Sprint.
-3. ***Sprint Review:*** Reunión al final de cada Sprint en la que el equipo muestra lo que ha logrado y recibe retroalimentación del Product Owner y partes interesadas.
-4. ***Sprint Retrospective:*** Reunión al final de cada Sprint en la que el equipo reflexiona sobre su desempeño y discute cómo mejorar en el próximo Sprint.
+En Scrum, los artefactos son documentos o elementos que brindan transparencia y oportunidades de inspección y adaptación en el proceso de desarrollo de software. Los artefactos clave en Scrum son:
+
+- ***Product Backlog (Backlog del Producto)***: Es una lista priorizada de todas las funcionalidades, mejoras, correcciones y otros elementos que constituyen los requisitos del producto. Es mantenida por el Product Owner y evoluciona a medida que se comprenden mejor los requerimientos y se obtiene retroalimentación.
+
+- ***Sprint Backlog (Backlog del Sprint)***: Es un conjunto de elementos seleccionados del Product Backlog que el equipo se compromete a completar durante el Sprint en curso. El equipo se autoorganiza para definir cómo se abordarán y entregará cada uno de estos elementos durante el Sprint.
+
+- ***Increment (Incremento)***: Es la suma de todos los elementos completados durante el Sprint y el valor de los incrementos anteriores. Es el producto en desarrollo, que debe ser potencialmente entregable y funcional al final de cada Sprint.
+  
 ---
 ### Valoración
 
-Scrum promueve la colaboración efectiva, la transparencia y la entrega continua, fomentando la adaptabilidad y flexibilidad en proyectos. Su enfoque en iteraciones cortas impulsa la rapidez en la entrega de valor, permitiendo ajustes rápidos basados en la retroalimentación. Este marco de trabajo fomenta equipos autoorganizados y la participación activa de los interesados, generando un ambiente propicio para la innovación y mejora constante.
+Scrum, una metodología ágil ampliamente reconocida, ha transformado la forma en que se abordan los proyectos y desarrollos de productos. Su enfoque en la colaboración, transparencia y adaptabilidad ha demostrado ser altamente efectivo en entornos complejos y cambiantes. Con roles claramente definidos y eventos estructurados, Scrum fomenta la responsabilidad individual y el trabajo en equipo, lo que lleva a una mayor productividad y satisfacción.
 
-Para mas informacion puedes consultar la siguiente url (https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software))
+La iteratividad y la entrega incremental que promueve Scrum permiten ajustes ágiles y rápidos en función de la retroalimentación y las necesidades cambiantes del mercado. La organización en Sprints y la planificación cuidadosa en cada ciclo garantizan la alineación constante con los objetivos del proyecto. Además, los principios de mejora continua que impulsa, a través de la retrospectiva del Sprint, cultivan un ambiente propicio para la innovación y la eficiencia.
+
+En resumen, Scrum no solo ha demostrado ser una metodología exitosa para la gestión de proyectos, sino que también fomenta una cultura de aprendizaje, adaptación y entrega de valor en el mundo laboral actual.
+
+---
+### Bibliografía
+- [Atlassian](https://www.atlassian.com/es/agile/scrum)
+  
+- [Wiki](https://ca.wikipedia.org/wiki/Scrum)
+  
+- [Asana](https://asana.com/es/resources/what-is-scrum)
+
+- [IEBS](https://www.iebschool.com/blog/metodologia-scrum-agile-scrum/)
